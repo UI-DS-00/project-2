@@ -31,14 +31,14 @@
 ### گام دوم:
 ما فایلی حاوی اطلاعات موسیقی‌ها داریم.
 فرمت کلی یک اطلاعات یک موسیقی که در فایل خواهد بود:
-•	MusicName(string)
-•	Genre(string)
-•	Artist(string)
-•	IsSingleTrack(boolean)
-•	AlbumName(string)
-•	ReleaseYear(date)
-•	Length(string)
-•	IsLikedSong(boolean)
++	MusicName(string)
++	Genre(string)
++	Artist(string)
++	IsSingleTrack(boolean)
++	AlbumName(string)
++	ReleaseYear(date)
++	Length(string)
++	IsLikedSong(boolean)
 
 این اطلاعات به فرمت csv هستند. در مورد این فرمت نمایش داده‌ها تحقیق کنید.
 در ابتدای کار اطلاعات موردنظر را خوانده و در برنامه بارگذاری کنید.
